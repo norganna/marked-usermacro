@@ -28,7 +28,7 @@ Add the following to your user macros page, which you can find by:
 ##
 ## @noparams
 ##
-## Developed by: norganna (https://github.com/norganna)
+## Developed by: Ken Allan (https://github.com/norganna)
 ## Date created: 2015-09-01
 
 #set ($randomId="")
