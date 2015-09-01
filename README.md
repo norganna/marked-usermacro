@@ -76,4 +76,5 @@ Content content.
 ## License
 
 Copyright 2015, Ken Allan, MIT License.
+
 See LICENSE file for more information.
