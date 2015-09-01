@@ -1,4 +1,4 @@
-# marked-usermacro
+# ![icon](https://raw.githubusercontent.com/norganna/marked-usermacro/master/marked.png "marked-usermacro") marked-usermacro
 User macro to allow GitHub flavoured markdown blocks inside Confluence pages via marked.js.
 
 ## Description
