@@ -6,8 +6,14 @@ This macro is designed to render the markdown body content in the page whilst pr
 The markdown code is rendered at page display time by the [marked.js](https://github.com/chjj/marked) javascript library.
 
 ## Installation
-Add the following to your user macros page, which you can find by going to the Configuration page as an administrator and clicking "User Macros" in the left navigation panel (in the Configuration block), click Create new macro and enter the information and definitions as per the comments in the following code:
+Add the following to your user macros page, which you can find by:
+* going to the **Configuration** page as an administrator 
+* selecting **User Macros** in the left navigation panel (in the **Configuration** block)
+* navigating to **Create a User Macro** page
+* entering the **Information** and **Definition** as per the comments at the top of the following code
+* pasting the code into the **Template** text box
 
+## Code
 ```
 ## Macro name: marked
 ## Macro title: Marked markdown content
