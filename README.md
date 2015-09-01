@@ -6,7 +6,7 @@ This macro is designed to render the markdown body content in the page whilst pr
 The markdown code is rendered at page display time by the [marked.js](https://github.com/chjj/marked) javascript library.
 
 ## Installation
-Add the following to your user macros:
+Add the following to your user macros page, which you can find by going to the Configuration page as an administrator and clicking "User Macros" in the left navigation panel (in the Configuration block), click Create new macro and enter the information and definitions as per the comments in the following code:
 
 ```
 ## Macro name: marked
@@ -22,7 +22,7 @@ Add the following to your user macros:
 ##
 ## @noparams
 ##
-## Developed by: Ken Allan
+## Developed by: norganna (https://github.com/norganna)
 ## Date created: 2015-09-01
 
 #set ($randomId="")
