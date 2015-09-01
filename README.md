@@ -20,7 +20,7 @@ Add the following to your user macros page, which you can find by:
 ## Categories: Formatting
 ## Description: Display markdown content in Github flavoured markdown via the marked.js engine.
 ## Visibility: to all users
-## Icon URL: http://drop.norganna.com/1bQZy+
+## Icon URL: https://raw.githubusercontent.com/norganna/marked-usermacro/master/marked.png
 ## Documentation URL: https://help.github.com/articles/github-flavored-markdown/
 ## Macro has a body: Y
 ## Body processing: Unrendered
